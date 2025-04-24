@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["Amnezia", "Wireproxy"],
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.tabSize": 2,
+  "eslint.format.enable": true
+}
